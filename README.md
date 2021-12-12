@@ -8,4 +8,5 @@
 jonathan-mwenze/jonathan-mwenze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Python_CSS_HTML_PostgreSQL_MongoDB_ReactJS_Flask_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_CSS_HTML_PostgreSQL_MongoDB_ReactJS_Flask_)](https://pimp-my-readme.webapp.io)
+
+[![HTML_JavaScript_CSS_Python_PostgreSQL_MongoDB_ReactJS_Flask_Heroku](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_JavaScript_CSS_Python_PostgreSQL_MongoDB_ReactJS_Flask_Heroku)](https://pimp-my-readme.webapp.io)
